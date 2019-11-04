@@ -1,0 +1,3 @@
+[submodule "MobileApps"]
+	path = MobileApps
+	url = https://github.com/Kahuka/MobileApps
